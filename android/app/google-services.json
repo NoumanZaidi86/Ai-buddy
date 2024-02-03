@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414960874074",
+    "project_id": "easytour-5f8d4",
+    "storage_bucket": "easytour-5f8d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414960874074:android:455eb08e10f7d9fd281e63",
+        "android_client_info": {
+          "package_name": "com.example.easytour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414960874074-qb5vutd58a5nn7gfbt84sr1dvd18nadt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9hlX3yZpXETv5h2zEAMvkRw1_wOf0Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414960874074-qb5vutd58a5nn7gfbt84sr1dvd18nadt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
